@@ -61,10 +61,10 @@ JavaScript `Object`s.
 
 ## Conclusion
 
-<span style="background-color:red">The last skill we need to be effective JavaScript web programmers is
+<div style="background-color:green">The last skill we need to be effective JavaScript web programmers is
 communication with the server, which links together what we've learned about how
 to manipulate the DOM and how to work with events. With the AJAX technique,
 we'll learn how to send and receive data quickly so that we keep our users'
-experience a positive one.</span>
+experience a positive one.</div>
 
 [three-pillars-example-working]: https://curriculum-content.s3.amazonaws.com/fewpjs/fewpjs-stitching-together-the-three-pillars/three-pillars-02.gif
